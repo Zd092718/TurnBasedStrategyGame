@@ -1,0 +1,4 @@
+repository "TurnBasedStrategyGame@Spite@cloud"
+  path "/"
+    br "/main"
+    co "/main"
